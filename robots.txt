@@ -1,0 +1,49 @@
+# ============================================================
+#  Robots.txt — Afshan PN Portfolio
+#  https://www.afshanpn.online
+# ============================================================
+
+# Allow all search engine crawlers
+User-agent: *
+Allow: /
+Disallow:
+
+# Sitemap location
+Sitemap: https://www.afshanpn.online/sitemap.xml
+
+# ── AI / LLM Crawlers ──────────────────────────────────────
+# Allow responsible AI crawlers to index portfolio content
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Anthropic-AI
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+# Block bad bots / scrapers
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /

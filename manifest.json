@@ -1,0 +1,20 @@
+{
+  "name": "Afshan PN — AI Developer Portfolio",
+  "short_name": "Afshan PN",
+  "description": "Portfolio of Afshan PN – Aspiring AI Developer and Data Science enthusiast skilled in Python, Machine Learning, Data Analytics, and Artificial Intelligence.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#E6D3B3",
+  "theme_color": "#3E2723",
+  "orientation": "portrait-primary",
+  "lang": "en",
+  "categories": ["portfolio", "technology"],
+  "icons": [
+    {
+      "src": "profile_avatar.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

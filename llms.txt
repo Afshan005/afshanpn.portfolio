@@ -1,0 +1,77 @@
+# Afshan PN — Portfolio
+# https://www.afshanpn.online
+
+> Afshan PN is an aspiring AI Developer and Data Science enthusiast from Kodungallur, Thrissur, Kerala, India. This is her personal portfolio website showcasing skills, projects, services, and contact information.
+
+## About
+
+Afshan PN is a passionate AI Developer and Data Science enthusiast driven by curiosity for how intelligent systems can transform the world. She completed an internship at Excape AI — India's First AI Ecosystem — as an AI Developer Intern, gaining hands-on experience developing intelligent solutions and working with real-world datasets.
+
+- Name: Afshan PN
+- Role: AI Developer Intern
+- Company: Excape AI (India's First AI Ecosystem)
+- Location: Kodungallur, Thrissur, Kerala, India
+- Email: afshanpn2005@gmail.com
+- Status: Available for opportunities
+
+## Skills
+
+### AI & Machine Learning
+- Machine Learning (85%)
+- Artificial Intelligence (80%)
+- Deep Learning (70%)
+
+### Data Science & Analytics
+- Data Analytics (88%)
+- Data Science (85%)
+- Data Visualization (80%)
+
+### Programming
+- Python (90%)
+- SQL (75%)
+
+### Web (Basic Knowledge)
+- HTML (65%)
+- CSS (60%)
+- JavaScript (55%)
+- Node.js (45%)
+
+### Tools & Libraries
+NumPy, Pandas, Scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn, Jupyter, MySQL, Git & GitHub, OpenCV, Flask
+
+## Projects
+
+### Real Estate Price Analysis
+A comprehensive machine learning project analyzing real estate market trends and predicting property prices using regression models. Involved data cleaning, EDA, feature engineering, and model building.
+- Technologies: Python, Scikit-learn, Pandas, Matplotlib
+- GitHub: https://github.com/Afshan005/uae-real-estate-price-analysis
+
+### College-Based Project System
+A smart college management platform built to streamline academic workflows — from attendance tracking to project submission and grading. Integrates AI-driven recommendations.
+- Technologies: Python, Machine Learning, Flask, MySQL
+- GitHub: https://github.com/Afshan005/ai-integrated-collage-portal-
+
+### Job Recommendation System
+An intelligent job recommendation engine using NLP and collaborative filtering to match job seekers with relevant opportunities.
+- Technologies: Python, NLP, Scikit-learn, Pandas
+- GitHub: https://github.com/Afshan005/Job-Recommendation-AI
+
+## Services
+
+1. **Machine Learning Models** — Design, train, and deploy custom ML models
+2. **Data Analysis & Insights** — Transform raw data into meaningful insights
+3. **AI Solution Development** — End-to-end development of intelligent AI applications (Most Popular)
+4. **Data Visualization** — Craft stunning, interactive visualizations
+5. **Python Development** — Build robust Python applications and automation scripts
+6. **AI Consulting** — Strategic guidance on integrating AI and data science
+
+## Social Links
+
+- LinkedIn: https://www.linkedin.com/in/afshan-pn
+- GitHub: https://github.com/Afshan005
+- Instagram: https://www.instagram.com/afshan.noorudheen._/
+- Email: afshanpn2005@gmail.com
+
+## Contact
+
+For project inquiries, collaborations, or job opportunities, reach out via the contact form on the website or email afshanpn2005@gmail.com. Response time is typically within 24 hours.

@@ -1,0 +1,7 @@
+# Security Policy — Afshan PN Portfolio
+# https://www.afshanpn.online
+
+Contact: mailto:afshanpn2005@gmail.com
+Preferred-Languages: en
+Canonical: https://www.afshanpn.online/.well-known/security.txt
+Expires: 2027-04-13T00:00:00.000Z

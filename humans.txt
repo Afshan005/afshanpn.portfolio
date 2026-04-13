@@ -1,0 +1,20 @@
+/* TEAM */
+
+Developer: Afshan PN
+Role: AI Developer & Data Science Enthusiast
+Location: Kodungallur, Thrissur, Kerala, India
+Contact: afshanpn2005@gmail.com
+LinkedIn: https://www.linkedin.com/in/afshan-pn
+GitHub: https://github.com/Afshan005
+
+/* SITE */
+
+Last Updated: 2026-04-13
+Standards: HTML5, CSS3, JavaScript ES6+
+Software: Visual Studio Code
+Fonts: Inter (Google Fonts), JetBrains Mono (Google Fonts)
+Icons: Boxicons 2.1.4
+
+/* THANKS */
+
+Excape AI — India's First AI Ecosystem (Internship)
