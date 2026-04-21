@@ -388,32 +388,7 @@ ul { list-style: none; }
 }
 .hero-avatar { width: 100%; height: 100%; object-fit: cover; }
 
-/* Scroll indicator */
-.scroll-indicator {
-  position: absolute; bottom: 28px; left: 50%;
-  transform: translateX(-50%);
-  display: flex; flex-direction: column; align-items: center; gap: 6px;
-  font-size: 0.7rem; color: var(--text-muted);
-  z-index: 2; letter-spacing: 2px; text-transform: uppercase;
-  animation: bounce-scroll 2s ease-in-out infinite;
-}
-.scroll-mouse {
-  width: 20px; height: 32px;
-  border: 2px solid var(--accent);
-  border-radius: 10px;
-  display: flex; justify-content: center; padding-top: 5px;
-}
-.scroll-wheel {
-  width: 3px; height: 7px;
-  background: var(--accent);
-  border-radius: 2px;
-  animation: scroll-wheel 1.8s ease-in-out infinite;
-}
-@keyframes scroll-wheel { 0%{opacity:1;transform:translateY(0)} 100%{opacity:0;transform:translateY(8px)} }
-@keyframes bounce-scroll {
-  0%,100% { transform: translateX(-50%) translateY(0); }
-  50%     { transform: translateX(-50%) translateY(5px); }
-}
+
 
 /* ============================================================
    ABOUT

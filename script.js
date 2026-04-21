@@ -6,7 +6,7 @@
 
 // ── GOOGLE SHEETS CONFIG ─────────────────────────────────────
 // After deploying your Apps Script as a Web App, paste the URL here:
-const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzykQZ-1Bmo4zjTrXTIZD8UUvXQ8d2cOKwNqAlu75IdkxkPgALzED-JUc06IQAH7fRk/exec"; // ← replace after setup
+const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbw5oFmIk3WX2_2DGL7IKSuLP5ssPtJcr4B08ahw4wYjoHW9s8Skj7GYzg1DUpRo3R80/exec://script.google.com/macros/s/AKfycbzykQZ-1Bmo4zjTrXTIZD8UUvXQ8d2cOKwNqAlu75IdkxkPgALzED-JUc06IQAH7fRk/exec"; // ← replace after setup
 
 // ── TYPEWRITER ──────────────────────────────────────────────
 const typewriterTexts = [
@@ -240,7 +240,7 @@ contactForm.addEventListener("submit", async function (e) {
   let sent = false;
 
   // ── Send to Google Sheets ──────────────────────────────────
-  if (GOOGLE_SCRIPT_URL && GOOGLE_SCRIPT_URL !== "YOUR_GOOGLE_SCRIPT_URL") {
+  if (GOOGLE_SCRIPT_URL && GOOGLE_SCRIPT_URL !== "https://script.google.com/macros/s/AKfycbw5oFmIk3WX2_2DGL7IKSuLP5ssPtJcr4B08ahw4wYjoHW9s8Skj7GYzg1DUpRo3R80/exec://script.google.com/macros/s/AKfycbzykQZ-1Bmo4zjTrXTIZD8UUvXQ8d2cOKwNqAlu75IdkxkPgALzED-JUc06IQAH7fRk/exec") {
     try {
       const response = await fetch(GOOGLE_SCRIPT_URL, {
         method: "POST",
